@@ -222,7 +222,7 @@ This standalone script:
 - ✅ Fully open source
 - ❌ No GUI (command-line only)
 
-The original GUI application is still available via `spatialmedia/gui.py` but requires additional dependencies (PyInstaller, tk, pillow).
+The original GUI application is still available via `spatialmedia/gui.py` but requires additional dependencies (PyInstaller, tk, Pillow).
 
 ## Advanced: Running as a Python Module
 

@@ -17,7 +17,7 @@
 
 """Spatial Media Metadata Injector - Standalone Cross-Platform Script
 
-A standalone command-line tool for examining and injecting spatial media 
+A standalone command-line tool for examining and injecting spatial media
 metadata (360° video and spatial audio) into MP4/MOV files.
 
 This script works on any platform with Python 3 installed, including:
